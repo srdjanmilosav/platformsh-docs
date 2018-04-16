@@ -1,6 +1,6 @@
 # Magento
 
-> Magento Commerce
+> **Magento Commerce**
 > 
 > If you are launching a Magento Commerce project, you can get full access to the Platform.sh development stack plus Magento support included in your Magento Commerce subscription.
 >
